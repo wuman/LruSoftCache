@@ -1,0 +1,16 @@
+# Android generated binaries
+bin
+gen
+proguard
+
+# OSX
+.DS_Store
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Eclipse preferences
+.settings
+
+android/project.properties
